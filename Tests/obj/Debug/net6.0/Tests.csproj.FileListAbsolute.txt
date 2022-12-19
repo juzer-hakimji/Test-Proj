@@ -108,3 +108,5 @@ D:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger
 D:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\TodoApi.dll
 D:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\TodoApi.pdb
+d:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\Castle.Core.dll
+d:\Test projects\Test-Proj\Tests\bin\Debug\net6.0\Moq.dll
